@@ -1,0 +1,6 @@
+{
+  "name": "Ampin Transformer Designer Pro",
+  "description": "Professional engineering application to calculate transformer turns ratios, core saturation limits, winding details, and simulate coil windings in real term with wire gauge calculations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
